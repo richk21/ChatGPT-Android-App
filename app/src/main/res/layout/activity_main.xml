@@ -94,6 +94,22 @@
         </RelativeLayout>
     </androidx.core.widget.NestedScrollView>
 
+    <!--
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/emptyChatButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        baselineAlignBottom = "false"
+        android:layout_anchor = "@+id/appbar"
+        app:layout_anchorGravity="end|bottom"
+        android:layout_marginRight="16dp"
+        android:backgroundTint="#aaccc2"
+        android:clickable="true"
+        android:src="@drawable/deleteicon"
+        app:fabSize="normal"
+        />
+        -->
+
     <RelativeLayout
         android:id="@+id/bottom_layout"
         android:layout_width="match_parent"
