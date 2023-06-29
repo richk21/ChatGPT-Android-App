@@ -14,6 +14,6 @@ The application seamlessly integrates with the ChatGPT API, enabling real-time a
 The user interface, built using XML tags, ensures an interactive and engaging chat experience, making it effortless for users to interact with the AI-powered ChatGPT.
 ### 5. Real-Time Responses
 Experience quick and responsive AI-generated responses as the ChatGPT API powers the conversation, providing users with smooth and uninterrupted interactions.
-
+#### NOTE - remember to replace your OpenAI API key where "OPENAIKEY" is present in the MainActivity.java file.
 ## Final words
 Experience the power of ChatGPT on your Android device with my application, allowing seamless interaction and utilization of ChatGPT's capabilities without the need for a browser. Enjoy real-world accessibility and convenience as you engage with ChatGPT directly from your Android phone.
