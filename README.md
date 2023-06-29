@@ -1,10 +1,12 @@
 # ChatGPT Chatting Application
 This project is built in Java using Android Studio and utilizes the ChatGPT API for seamless conversational experiences. The user interface is designed using XML tags, providing an intuitive and interactive chat interface. Engage in natural language conversations and experience the power of AI with this Android ChatGPT Application!
+
 ![image](https://github.com/richk21/ChatGPT-Android-App/assets/64418209/9be0bb6b-e855-4b28-8bac-848c56e63e94)
 
 ## Features
 ### 1. Intuitive Chat Interface
 The application showcases conversations in the form of visually appealing chat bubbles, providing a familiar and user-friendly messaging experience.
+
 ![image](https://github.com/richk21/ChatGPT-Android-App/assets/64418209/33cddc2f-1640-4b09-84a3-5c3b3803f880)
 
 ### 2. Copy and Paste Functionality
